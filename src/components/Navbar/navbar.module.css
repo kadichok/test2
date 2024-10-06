@@ -1,0 +1,19 @@
+
+.container {
+    position: relative;
+    height: 30vh;
+    width: 90%;
+    margin: 30px auto;
+}
+
+.picture {
+    height: 30%;
+}
+
+.caption {
+    background-color: #9056;
+    color: #6756;
+    padding: 10px;
+    font-size: 20px;
+    text-align: right;
+}
